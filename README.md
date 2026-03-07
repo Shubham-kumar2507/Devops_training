@@ -1,2 +1,2 @@
 # Devops_traning
-My training using CLI
+this is the demo repo for my practice.
